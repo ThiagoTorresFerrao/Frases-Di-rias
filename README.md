@@ -7,6 +7,12 @@ motivational quotes.
 
 ------------------------------------------------------------------------
 
+Este aplicativo foi desenvolvido por mim como material didático para apoiar minhas aulas, com o objetivo de ensinar e demonstrar na prática os principais conceitos de Kotlin para a turma do curso de Análise e Desenvolvimento de Sistemas do SENAC 2026.
+
+This application was developed by me as a teaching resource to support my classes, aiming to teach and demonstrate the core Kotlin concepts in practice to the Systems Analysis and Development students at SENAC 2026.
+
+------------------------------------------------------------------------
+
 ## 🇧🇷 Português
 
 ### ✨ Sobre o projeto
